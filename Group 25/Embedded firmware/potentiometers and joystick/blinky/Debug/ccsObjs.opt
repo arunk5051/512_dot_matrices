@@ -1,0 +1,1 @@
+"./startup_ccs.obj" "./blinky.obj" "../blinky_ccs.cmd" "C:/ti/TivaWare_C_Series-2.0.1.11577/driverlib/ccs/Debug/driverlib.lib" -l"libc.a" 
